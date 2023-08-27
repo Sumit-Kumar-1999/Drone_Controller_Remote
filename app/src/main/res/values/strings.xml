@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button" />
+    <string name="connect">Connect</string>
+    <string name="x_050_y_050">Roll:50, Pitch:50</string>
+    <string name="x_050_y_000">Yaw:50, Throttle:00</string>
+    <string name="put_ip_address">Put IP Address</string>
+</resources>

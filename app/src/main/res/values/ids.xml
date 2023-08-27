@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="joystick_right" type="id" />
+    <item name="joystick_left" type="id" />
+    <item name="coordinate_right" type="id"/>
+    <item name="coordinate_left" type="id" />
+    <item name="IP_Address" type="id" />
+</resources>
